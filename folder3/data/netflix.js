@@ -1,6 +1,18 @@
 export const netflixMovies = [
 
 
+          {
+    name: ' ฝ่าห้วงฝันสู่ดวงดาว 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Per-Aspera-Ad-Astra-2026.webp',
+    url: 'https://media.vdohls.com/YjfBb_pOm2-vU/video.m3u8'
+  },
+     {
+    name: 'เอโนลา โฮล์มส์ 3 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Enola-Holmes-3-2026.webp',
+    url: 'https://media.vdohls.com/LKQ-R7VaKb_9g/video.m3u8'
+  },
      {
     name: 'เมืองสีดำ 2026 ',
     group: '🎬netflix2026',
