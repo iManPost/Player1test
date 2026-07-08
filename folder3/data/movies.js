@@ -1,4 +1,6 @@
 export const movies = [
+ { name: ' แจ็คแอส ส่งท้าย ให้สุด (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Jackass-Best-and-Last-2026.webp', url: 'https://media.vdohls.com/rTUW_XD84-HN9/video.m3u8' },
+ { name: ' เอโนลา โฮล์มส์ 3 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Enola-Holmes-3-2026.webp', url: 'https://media.vdohls.com/LKQ-R7VaKb_9g/video.m3u8' },
  { name: ' กระบี่แห่งตำนาน (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/06/cV432K2eGK5erWym8HQwrlB9cfY-185x278.jpg', url: 'https://media.vdohls.com/Gj_wKnMH7-Edo/playlist.m3u8' },
  { name: ' มินเนี่ยน-มอนสเตอร์ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/ai10GoujvMbpWtXWvW0aPqxrDNm-185x278.jpg', url: 'https://media.vdohls.com/Vp-Yqg_CvtiP7/playlist.m3u8' },
  { name: ' บันทึกสุดท้ายของจอมโจร (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.nunghd4k.com/wp-content/uploads/2026/07/dw6NW19ycOFBfXYsHqr4xhJefFq.jpg', url: 'https://api.p2p-cdnmovie.xyz/1080p/1284465/1284465/index.m3u8' },
