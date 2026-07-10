@@ -1,10 +1,80 @@
 export const series = [
 
+
     {
-    name: ' นักสู้ทูปเบอร์ ตอนที่1',
+    name: ' ลิขิตรักสลับโฉม ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/9_Ss-h7uS3PVx/video.m3u8'
+  },
+        {
+    name: ' ลิขิตรักสลับโฉม ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/p_cNP7-PEYtTP/video.m3u8'
+  },
+            {
+    name: ' ลิขิตรักสลับโฉม ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/vB-TBGCO9_Da0/video.m3u8'
+  },
+                {
+    name: ' ลิขิตรักสลับโฉม ตอนที่4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/X4-3_fRxDyrk1/video.m3u8'
+  },
+                    {
+    name: ' ลิขิตรักสลับโฉม ตอนที่5',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/kd_2pmX-arA2R/video.m3u8'
+  },
+                        {
+    name: ' ลิขิตรักสลับโฉม ตอนที่6',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
+    url: 'https://media.vdohls.com/kd_2pmX-arA2R/video.m3u8'
+  },
+    
+    {
+    name: ' เล่ห์รักภรรยากำมะลอ ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/yxhg6jlJJECMjHRiioHiwZImzem-185x278.jpg',
+    url: 'https://media.vdohls.com/hthCV7iv-v_3l/video.m3u8'
+  },
+    
+        {
+    name: ' เล่ห์รักภรรยากำมะลอ ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/yxhg6jlJJECMjHRiioHiwZImzem-185x278.jpg',
+    url: 'https://media.vdohls.com/8I3Gz4T-M_IqK/video.m3u8'
+  },
+            {
+    name: ' เล่ห์รักภรรยากำมะลอ ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/yxhg6jlJJECMjHRiioHiwZImzem-185x278.jpg',
+    url: 'https://media.vdohls.com/8I3Gz4T-M_IqK/video.m3u8'
+  },
+    
+    {
+    name: ' นักสู้ทูปเบอร์ ตอนที่4',
     group: '🎬ซีรีย์2026',
     logo: 'https://9.9nung.com/wp-content/uploads/2026/06/cjy716l2l6uCCbvkkRgFReCdjYF-185x278.jpg',
-    url: 'https://media.vdohls.com/ZH5d0QH_Jh-tT/playlist.m3u8'
+    url: 'https://media.vdohls.com/K_q-qnlvtj6Dk/video.m3u8'
+  },
+        {
+    name: ' นักสู้ทูปเบอร์ ตอนที่5',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/cjy716l2l6uCCbvkkRgFReCdjYF-185x278.jpg',
+    url: 'https://media.vdohls.com/Uji_c-F6XjPMK/video.m3u8'
+  },
+            {
+    name: ' นักสู้ทูปเบอร์ ตอนที่6',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/06/cjy716l2l6uCCbvkkRgFReCdjYF-185x278.jpg',
+    url: 'https://media.vdohls.com/ch-aLxPB_Xc6K/video.m3u8'
   },
 
     {
