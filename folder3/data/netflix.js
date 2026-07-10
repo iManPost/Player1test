@@ -2,6 +2,18 @@ export const netflixMovies = [
 
 
           {
+    name: ' ข้อความเสียงแด่อิซาเบล 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Voicemails-for-Isabelle-2026-e1782103446617.webp',
+    url: 'https://media.vdohls.com/JUFYn-Jb_pMGQ/video.m3u8'
+  },
+          {
+    name: ' ปิ๊งรักในออฟฟิศ 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp',
+    url: 'https://media.vdohls.com/O-ryF_z725V5o/video.m3u8'
+  },
+          {
     name: ' ฝ่าห้วงฝันสู่ดวงดาว 2026 ',
     group: '🎬netflix2026',
     logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Per-Aspera-Ad-Astra-2026.webp',
