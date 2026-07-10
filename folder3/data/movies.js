@@ -1,4 +1,6 @@
 export const movies = [
+ { name: ' ปิ๊งรักในออฟฟิศ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp', url: 'https://media.vdohls.com/O-ryF_z725V5o/video.m3u8' },
+ { name: ' The Get Out (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/The-Get-Out-2026.webp', url: 'https://media.vdohls.com/6_6-x6d8OJ5uS/video.m3u8' },
  { name: ' แจ็คแอส ส่งท้าย ให้สุด (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Jackass-Best-and-Last-2026.webp', url: 'https://media.vdohls.com/rTUW_XD84-HN9/video.m3u8' },
  { name: ' เอโนลา โฮล์มส์ 3 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Enola-Holmes-3-2026.webp', url: 'https://media.vdohls.com/LKQ-R7VaKb_9g/video.m3u8' },
  { name: ' กระบี่แห่งตำนาน (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/06/cV432K2eGK5erWym8HQwrlB9cfY-185x278.jpg', url: 'https://media.vdohls.com/Gj_wKnMH7-Edo/playlist.m3u8' },
