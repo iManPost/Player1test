@@ -1,6 +1,50 @@
 export const netflixMovies = [
 
-
+    {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่1 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/E_SiPZ2Q-TXtk/video.m3u8'
+  },
+      {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่2 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/BgKdD-I_thIVp/video.m3u8'
+  },
+       {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่3 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/3ABsn_Q-x4Olt/video.m3u8'
+  },
+           {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่4 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/E53aO-zY_1pEJ/video.m3u8'
+  },
+      {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่5 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/u0CMyT-6V_dcf/video.m3u8'
+  },
+              {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่6 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/F_GxAGQZ-E62M/video.m3u8'
+  },
+         {
+    name: ' เณรน้อยเจ้าอภินิหาร2-2026 ตอนที่7 ',
+    group: '🎬netflix2026',
+    logo: 'https://images.workpointtoday.com/workpointnews/2025/12/27212007/1766845201_731858-workpointtoday.webp',
+    url: 'https://media.vdohls.com/Qa4Em_N-UgHPW/video.m3u8'
+  },
+   
+   
+ 
           {
     name: ' ข้อความเสียงแด่อิซาเบล 2026 ',
     group: '🎬netflix2026',
