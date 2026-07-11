@@ -1,4 +1,6 @@
 export const movies = [
+ { name: 'ยอดนักสืบจิ๋วโคนัน (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Detective-Conan-The-Movie-29-Haiwei-no-Datenshi-2026-e1783479951621.webp', url: 'https://media.vdohls.com/SfB_YG2zN-B9m/video.m3u8' },
+ { name: 'ผีอมตะแผดเผา (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Evil-Dead-Burn-2026.webp', url: 'https://media.vdohls.com/FfAYv-1B8T_AZ/video.m3u8' },
  { name: ' ปิ๊งรักในออฟฟิศ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp', url: 'https://media.vdohls.com/O-ryF_z725V5o/video.m3u8' },
  { name: ' The Get Out (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/The-Get-Out-2026.webp', url: 'https://media.vdohls.com/6_6-x6d8OJ5uS/video.m3u8' },
  { name: ' แจ็คแอส ส่งท้าย ให้สุด (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Jackass-Best-and-Last-2026.webp', url: 'https://media.vdohls.com/rTUW_XD84-HN9/video.m3u8' },
