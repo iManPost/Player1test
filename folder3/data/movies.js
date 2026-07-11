@@ -1,4 +1,5 @@
 export const movies = [
+ { name: 'ปล้นโครตระห่ำ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rxgpZjoPbc4CzmdQQ3QjpCzTTUK40Mfygm_BNGs6oQ&s=10', url: 'https://media.vdohls.com/v-N_97ERYIZd6/video.m3u8' },
  { name: 'ยอดนักสืบจิ๋วโคนัน (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Detective-Conan-The-Movie-29-Haiwei-no-Datenshi-2026-e1783479951621.webp', url: 'https://media.vdohls.com/SfB_YG2zN-B9m/video.m3u8' },
  { name: 'ผีอมตะแผดเผา (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Evil-Dead-Burn-2026.webp', url: 'https://media.vdohls.com/FfAYv-1B8T_AZ/video.m3u8' },
  { name: ' ปิ๊งรักในออฟฟิศ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Office-Romance-2026-e1780734852480.webp', url: 'https://media.vdohls.com/O-ryF_z725V5o/video.m3u8' },
