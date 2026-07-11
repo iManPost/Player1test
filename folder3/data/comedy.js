@@ -1,4 +1,4 @@
- export const anime = [
+ export const comedy = [
    {
     name: 'เป็นต่อ 2026 ตอนที่ 1',
     group: 'comedy',
