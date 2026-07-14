@@ -1,4 +1,6 @@
 export const movies = [
+ { name: 'เรืออับปาง (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Shipwrecked-Nightmare-at-Sea-2026.webp', url: 'https://media.vdohls.com/VsgO66-Qt_72V/video.m3u8' },
+ { name: 'ปฏิบัติการล่าข้ามโลกำ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Nick-off-Duty-2016.webp', url: 'https://media.vdohls.com/wr_icRTjc-jZy/video.m3u8' },
  { name: 'ปล้นโครตระห่ำ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rxgpZjoPbc4CzmdQQ3QjpCzTTUK40Mfygm_BNGs6oQ&s=10', url: 'https://media.vdohls.com/v-N_97ERYIZd6/video.m3u8' },
  { name: 'ยอดนักสืบจิ๋วโคนัน (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Detective-Conan-The-Movie-29-Haiwei-no-Datenshi-2026-e1783479951621.webp', url: 'https://media.vdohls.com/SfB_YG2zN-B9m/video.m3u8' },
  { name: 'ผีอมตะแผดเผา (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Evil-Dead-Burn-2026.webp', url: 'https://media.vdohls.com/FfAYv-1B8T_AZ/video.m3u8' },
