@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>MOV PLAYER</title>
+<title>M.OV P.LAYER</title>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
   <script>
 /* ==========================
    ข้อมูลต้นฉบับ
 ========================== */
 
-const PORTAL_URL = "https://aisplaybox.istyledode.workers.dev/";
+const PORTAL_URL = "https://";
 const MAC_ADDRESS = "00:11:22:33:44:55";
 
 /* ==========================
@@ -1233,11 +1233,42 @@ function getGridColumns(){
   return cols || 1;
 }
 
+// ───────────────────────── REMOTE KEY NORMALIZATION ─────────────────────────
+// กล่องแอนดรอยทีวี / แอปรีโมทหลายรุ่น (โดยเฉพาะ WebView เก่าๆ) ไม่ส่งค่า
+// KeyboardEvent.key มาตรฐาน (เช่น 'ArrowRight') แต่จะส่งมาเป็น keyCode ตัวเลขแทน
+// (37/38/39/40 = ลูกศร, 13 = OK/Enter, 8/27/10009 = Back)
+// ฟังก์ชันนี้แปลงให้เป็นชื่อ key มาตรฐานเสมอ ไม่ว่าอุปกรณ์จะส่งมาแบบไหน
+function normalizeRemoteKey(e){
+  if (e.key) {
+    // บางอุปกรณ์ส่ง key เป็นชื่อเก่า (IE/เก่า) เช่น 'Left','Up','Spacebar'
+    const map = {
+      'Left':'ArrowLeft','Right':'ArrowRight','Up':'ArrowUp','Down':'ArrowDown',
+      'Spacebar':' ','Esc':'Escape'
+    };
+    if (e.key in map) return map[e.key];
+    if (e.key !== 'Unidentified') return e.key;
+  }
+  // fallback ด้วย keyCode/which สำหรับอุปกรณ์ที่ไม่รองรับ e.key
+  const code = e.keyCode || e.which;
+  switch(code){
+    case 37: return 'ArrowLeft';
+    case 38: return 'ArrowUp';
+    case 39: return 'ArrowRight';
+    case 40: return 'ArrowDown';
+    case 13: return 'Enter';
+    case 32: return ' ';
+    case 27: case 10009: return 'Escape';
+    case 8:  return 'Backspace';
+    default: return e.key || '';
+  }
+}
+
 document.addEventListener('keydown', e => {
   document.body.classList.add('tv-mode');
+  const key = normalizeRemoteKey(e);
 
   if (playerOverlay.classList.contains('open')) {
-    switch(e.key){
+    switch(key){
       case 'ArrowRight': e.preventDefault(); moveFocus('right'); break;
       case 'ArrowLeft':  e.preventDefault(); moveFocus('left'); break;
       case 'ArrowDown':  e.preventDefault(); moveFocus('down'); break;
@@ -1264,7 +1295,7 @@ document.addEventListener('keydown', e => {
     return;
   }
 
-  switch(e.key){
+  switch(key){
     case 'ArrowRight': e.preventDefault(); moveFocus('right'); break;
     case 'ArrowLeft':  e.preventDefault(); moveFocus('left'); break;
     case 'ArrowDown':  e.preventDefault(); moveFocus('down'); break;
@@ -1291,7 +1322,12 @@ function init(){
   buildSidebar();
   buildGrid();
   refreshFocusables();
-  if (isTVLikely()) document.body.classList.add('tv-mode');
+  if (isTVLikely()) {
+    document.body.classList.add('tv-mode');
+    // ตั้งโฟกัสเริ่มต้นไว้ล่วงหน้า เพื่อให้กรอบสีเหลืองขึ้นมาให้เห็นทันที
+    // โดยไม่ต้องรอให้ผู้ใช้กดรีโมทครั้งแรกก่อน
+    setFocus(focusables[0]);
+  }
 }
 init();
 </script>
