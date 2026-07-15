@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<title>M.OV P.LAYER</title>
+<title>MOV PLAYER</title>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
   <script>
 /* ==========================
@@ -1263,26 +1263,26 @@ function normalizeRemoteKey(e){
   }
 }
 
-document.addEventListener('keydown', e => {
+// ───────────────────────── ประมวลผลปุ่มกด (ใช้ร่วมกันทั้ง keydown จริง และปุ่มที่ส่งมาจากภายนอกผ่าน postMessage) ─────────────────────────
+function handleRemoteKey(key, e){
   document.body.classList.add('tv-mode');
-  const key = normalizeRemoteKey(e);
 
   if (playerOverlay.classList.contains('open')) {
     switch(key){
-      case 'ArrowRight': e.preventDefault(); moveFocus('right'); break;
-      case 'ArrowLeft':  e.preventDefault(); moveFocus('left'); break;
-      case 'ArrowDown':  e.preventDefault(); moveFocus('down'); break;
-      case 'ArrowUp':    e.preventDefault(); moveFocus('up'); break;
+      case 'ArrowRight': if(e) e.preventDefault(); moveFocus('right'); break;
+      case 'ArrowLeft':  if(e) e.preventDefault(); moveFocus('left'); break;
+      case 'ArrowDown':  if(e) e.preventDefault(); moveFocus('down'); break;
+      case 'ArrowUp':    if(e) e.preventDefault(); moveFocus('up'); break;
       case 'Enter':
       case ' ': {
-        e.preventDefault();
+        if(e) e.preventDefault();
         const focusedInPlayer = document.querySelector('.focused');
         if (focusedInPlayer) focusedInPlayer.click();
         break;
       }
       case 'Escape':
       case 'Backspace':
-        e.preventDefault();
+        if(e) e.preventDefault();
         if (qualityMenu.classList.contains('open')) {
           qualityMenu.classList.remove('open');
           refreshFocusables();
@@ -1296,22 +1296,46 @@ document.addEventListener('keydown', e => {
   }
 
   switch(key){
-    case 'ArrowRight': e.preventDefault(); moveFocus('right'); break;
-    case 'ArrowLeft':  e.preventDefault(); moveFocus('left'); break;
-    case 'ArrowDown':  e.preventDefault(); moveFocus('down'); break;
-    case 'ArrowUp':    e.preventDefault(); moveFocus('up'); break;
+    case 'ArrowRight': if(e) e.preventDefault(); moveFocus('right'); break;
+    case 'ArrowLeft':  if(e) e.preventDefault(); moveFocus('left'); break;
+    case 'ArrowDown':  if(e) e.preventDefault(); moveFocus('down'); break;
+    case 'ArrowUp':    if(e) e.preventDefault(); moveFocus('up'); break;
     case 'Enter':
-    case ' ':
-      e.preventDefault();
+    case ' ': {
+      if(e) e.preventDefault();
       const focused = document.querySelector('.focused');
       if (focused) focused.click();
       break;
+    }
     case 'Backspace':
     case 'Escape':
       closeSidebarMobile();
       break;
   }
+}
+
+document.addEventListener('keydown', e => {
+  handleRemoteKey(normalizeRemoteKey(e), e);
 });
+
+// ───────────────────────── รับปุ่มกดจากหน้าแม่ ผ่าน postMessage (เผื่อกรณีฝังเป็น iframe แล้วโฟกัส/keydown เข้าไม่ถึงเฟรมนี้) ─────────────────────────
+// หน้าแม่ที่ฝัง iframe นี้ สามารถส่งข้อความมาในรูปแบบ:
+//   iframe.contentWindow.postMessage({ type:'remoteKey', key:'ArrowRight' }, '*');
+// หรือจะส่งเป็น keyCode ก็ได้:
+//   iframe.contentWindow.postMessage({ type:'remoteKey', keyCode: 39 }, '*');
+window.addEventListener('message', e => {
+  const data = e.data;
+  if (!data || data.type !== 'remoteKey') return;
+  let key = data.key;
+  if (!key && typeof data.keyCode !== 'undefined') {
+    key = normalizeRemoteKey({ keyCode: data.keyCode });
+  }
+  if (key) handleRemoteKey(key, null);
+});
+
+// พยายามดึง focus เข้ามาที่หน้าต่างนี้ตอนโหลดเสร็จ เผื่อกรณีถูกฝังเป็น iframe
+// (ถ้าหน้าแม่เป็นคนละ origin เบราว์เซอร์อาจบล็อกคำสั่งนี้ได้ ซึ่งไม่เป็นไร เพราะยังมี postMessage เป็นทางสำรองอยู่)
+try { window.focus(); } catch(err) {}
 
 // Mouse use disables tv-mode visual ring
 document.addEventListener('mousemove', () => document.body.classList.remove('tv-mode'), {passive:true});
