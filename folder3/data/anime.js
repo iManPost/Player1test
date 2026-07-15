@@ -1,6 +1,56 @@
  export const anime = [
 
    {
+    name: 'one-piece ตอนที่ 1089',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/pwLJkdLdvv/video.mp4/chunk.m3u8?nimblesessionid=169741118'
+  },
+   {
+    name: 'one-piece ตอนที่ 1090',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/YOmOe48Qos/video.mp4/chunk.m3u8?nimblesessionid=169741257'
+  },
+   {
+    name: 'one-piece ตอนที่ 1091',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/KzFgzCTjHD/video.mp4/chunk.m3u8?nimblesessionid=169741375'
+  },
+   {
+    name: 'one-piece ตอนที่ 1092',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/gvN011OjyV/video.mp4/chunk.m3u8?nimblesessionid=169741491'
+  },
+     {
+    name: 'one-piece ตอนที่ 1093',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/ksCeenO7cL/video.mp4/chunk.m3u8?nimblesessionid=169741884'
+  },
+   {
+    name: 'sou-shen-ji ตอนที่ 1',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/03/Sou-Shen-Ji.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/iu7LdYjv8C/video.mp4/chunk.m3u8?nimblesessionid=169740627'
+  },
+   {
+    name: 'sou-shen-ji ตอนที่ 2',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/03/Sou-Shen-Ji.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/eUf9dcIKTY/video.mp4/chunk.m3u8?nimblesessionid=169740822'
+  },
+   {
+    name: 'sou-shen-ji ตอนที่ 3',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/03/Sou-Shen-Ji.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/ZLgowsC0mm/video.mp4/chunk.m3u8?nimblesessionid=169740907'
+  },
+
+  
+   {
     name: 'กระบี่จงมา ภาค 2 ตอนที่ 1',
     group: 'Anime',
     logo: 'https://indy-anime.net/wp-content/uploads/2026/05/Jian-Lai-2nd-Season.jpg',
