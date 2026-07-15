@@ -1,4 +1,5 @@
 export const movies = [
+ { name: 'สัปเหร่อ 2 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/The-Undertaker-2-2026.webp', url: 'https://media.vdohls.com/pvPJvo_0-t2a7/video.m3u8' },
  { name: 'เรืออับปาง (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Shipwrecked-Nightmare-at-Sea-2026.webp', url: 'https://media.vdohls.com/VsgO66-Qt_72V/video.m3u8' },
  { name: 'ปฏิบัติการล่าข้ามโลกำ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Nick-off-Duty-2016.webp', url: 'https://media.vdohls.com/wr_icRTjc-jZy/video.m3u8' },
  { name: 'ปล้นโครตระห่ำ (2026) ', group: '🎬หนังใหม่2026', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6rxgpZjoPbc4CzmdQQ3QjpCzTTUK40Mfygm_BNGs6oQ&s=10', url: 'https://media.vdohls.com/v-N_97ERYIZd6/video.m3u8' },
