@@ -1,5 +1,7 @@
 export const movies = [
-   { name: 'นักรบเจ้าจักรวาล (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.shorthistory.org/get-image.php?post_id=4800', url: 'https://media.vdohls.com/cuR-PXemh_Imi/video.m3u8' },
+ { name: 'ทอย-สตอรี่-5 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/qW0yQ77Zsg9eb49OeyGuNR10yJ1-185x278.jpg', url: 'https://media.vdohls.com/YPE-t_670uk0M/video.m3u8' }, 
+ { name: 'โกลเดนคามุย-3 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/kFIs85TGQrrUqOvyYuC1ezkRO8x-185x278.jpg', url: 'https://media.vdohls.com/G-og4QICYf_mo/video.m3u8' }, 
+ { name: 'นักรบเจ้าจักรวาล (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.shorthistory.org/get-image.php?post_id=4800', url: 'https://media.vdohls.com/cuR-PXemh_Imi/video.m3u8' },
  { name: 'ซัดสุดแรง แซงเต็มสปีด 3 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.shorthistory.org/get-image.php?post_id=4763', url: 'https://media.vdohls.com/if-VOB8hA_77h/video.m3u8' },
  { name: 'สัปเหร่อ 2 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/The-Undertaker-2-2026.webp', url: 'https://media.vdohls.com/pvPJvo_0-t2a7/video.m3u8' },
  { name: 'เรืออับปาง (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.24hd.vip/wp-content/uploads/2026/07/Shipwrecked-Nightmare-at-Sea-2026.webp', url: 'https://media.vdohls.com/VsgO66-Qt_72V/video.m3u8' },
