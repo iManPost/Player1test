@@ -1,4 +1,12 @@
 export const netflixMovies = [
+
+
+    {
+    name: ' GOLDEN 3 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/kFIs85TGQrrUqOvyYuC1ezkRO8x-185x278.jpg',
+    url: 'https://media.vdohls.com/G-og4QICYf_mo/video.m3u8'
+  },
    
     {
     name: ' สายลับคิมกลับมาแล้ว-2026 ตอนที่1 ',
