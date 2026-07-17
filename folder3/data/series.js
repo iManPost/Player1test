@@ -1,12 +1,6 @@
 export const series = [
 
     {
-    name: ' หมอเทวดาท่าจะดื้อ ซีรีย์แนวตัง',
-    group: '🎬ซีรีย์2026',
-    logo: 'https://i.ibb.co/2Yhp0jc8/2cd75f140849.png',
-    url: 'https://stream.xn--72c9ab1ec1bc6q.xyz/94ecf508-3999-4ac3-8551-cfb2f5326860/playlist.m3u8'
-  },
-    {
     name: ' ลิขิตรักสลับโฉม ตอนที่1',
     group: '🎬ซีรีย์2026',
     logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
