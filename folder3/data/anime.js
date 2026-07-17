@@ -4,13 +4,13 @@
     name: 'one-piece ตอนที่ 1089',
     group: 'Anime',
     logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
-    url: 'https://hls.animeindy.com:8443/vid/pwLJkdLdvv/video.mp4/chunk.m3u8?nimblesessionid=169741118'
+    url: 'https://sv2.team-indy.net/video/pwLJkdLdvv/video.mp4'
   },
    {
     name: 'one-piece ตอนที่ 1090',
     group: 'Anime',
     logo: 'https://indy-anime.net/wp-content/uploads/2025/02/One-Piece-Season-21.jpg',
-    url: 'https://hls.animeindy.com:8443/vid/YOmOe48Qos/video.mp4/chunk.m3u8?nimblesessionid=169741257'
+    url: 'https://sv2.team-indy.net/video/YOmOe48Qos/video.mp4'
   },
    {
     name: 'one-piece ตอนที่ 1091',
