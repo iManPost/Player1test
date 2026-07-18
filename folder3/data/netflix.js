@@ -1,6 +1,55 @@
 export const netflixMovies = [
 
 
+
+    {
+    name: ' บูรพาอาถรรพ์ 2026 EP.1 ',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/iSt_4spu-Pi1H/video.m3u8'
+  },
+        {
+    name: ' บูรพาอาถรรพ์ 2026 EP.2 ',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/G6-USyVz_MH2A/video.m3u8'
+  },
+            {
+    name: ' บูรพาอาถรรพ์ 2026 EP.3 ',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/1dsP7RTX_z-Bf/video.m3u8'
+  },
+                {
+    name: ' บูรพาอาถรรพ์ 2026 EP.4 ',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/Q_hk9gMwna-v4/video.m3u8'
+  },
+                    {
+    name: ' บูรพาอาถรรพ์ 2026 EP.5 ',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/eTq0-B0K_nVd2/video.m3u8'
+  },
+                    {
+    name: ' บูรพาอาถรรพ์ 2026 EP.6',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/ysqv_FEhg-f4S/video.m3u8'
+  },
+                        {
+    name: ' บูรพาอาถรรพ์ 2026 EP.7',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/5s_ttvXBp-J2G/video.m3u8'
+  },
+                            {
+    name: ' บูรพาอาถรรพ์ 2026 EP.8',
+    group: '🎬netflix2026',
+    logo: 'https://s359.kapook.com/pagebuilder/2848ddf7-6708-43ab-adc8-1dc9bef263db.jpg',
+    url: 'https://media.vdohls.com/5s_ttvXBp-J2G/video.m3u8'
+  },
     {
     name: ' GOLDEN 3 2026 ',
     group: '🎬netflix2026',
@@ -43,6 +92,12 @@ export const netflixMovies = [
     group: '🎬netflix2026',
     logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026.webp',
     url: 'https://media.vdohls.com/mVL-LVH_peW9P/video.m3u8'
+  }, 
+                        {
+    name: ' สายลับคิมกลับมาแล้ว-2026 ตอนที่7 ',
+    group: '🎬netflix2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/06/Agent-Kim-Reactivated-2026.webp',
+    url: 'https://media.vdohls.com/LxQE-OOA_B0sP/video.m3u8'
   }, 
     
     {
