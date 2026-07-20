@@ -1,4 +1,5 @@
 export const movies = [
+  { name: 'มหากาพย์โอดิสซี (2026) ', group: '🎬หนังใหม่2026', logo: 'https://f.ptcdn.info/757/091/000/tief8h1mambvEnX3VVCJu-o.jpg', url: 'https://media.vdohls.com/LR_9odfBl1-PG/video.m3u8' }, 
  { name: 'ทอย-สตอรี่-5 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/qW0yQ77Zsg9eb49OeyGuNR10yJ1-185x278.jpg', url: 'https://media.vdohls.com/YPE-t_670uk0M/video.m3u8' }, 
  { name: 'โกลเดนคามุย-3 (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/kFIs85TGQrrUqOvyYuC1ezkRO8x-185x278.jpg', url: 'https://media.vdohls.com/G-og4QICYf_mo/video.m3u8' }, 
  { name: 'นักรบเจ้าจักรวาล (2026) ', group: '🎬หนังใหม่2026', logo: 'https://www.shorthistory.org/get-image.php?post_id=4800', url: 'https://media.vdohls.com/cuR-PXemh_Imi/video.m3u8' },
