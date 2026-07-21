@@ -1,6 +1,55 @@
 export const series = [
 
     {
+    name: ' ชะตารักกระดูกปักษา ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Key-to-the-Phoenix-Heart-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/ztH6kQnhSm/video.mp4/playlist.m3u8'
+  },
+      {
+    name: ' ชะตารักกระดูกปักษา ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Key-to-the-Phoenix-Heart-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/ylmlCujDWl/video.mp4/playlist.m3u8'
+  },
+          {
+    name: ' ชะตารักกระดูกปักษา ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Key-to-the-Phoenix-Heart-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/r27lCtJW1I/video.mp4/playlist.m3u8'
+  },
+    {
+    name: ' ตระกูลแห่งมังกร ซีซั่น 3 ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://1112hdss.com/wp-content/uploads/2026/06/5020-1.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/gkJNkSrZ1m/video.mp4/playlist.m3u8'
+  },
+        {
+    name: ' ตระกูลแห่งมังกร ซีซั่น 3 ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://1112hdss.com/wp-content/uploads/2026/06/5020-1.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/1WavXaxRjb/video.mp4/playlist.m3u8'
+  },
+            {
+    name: ' ตระกูลแห่งมังกร ซีซั่น 3 ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://1112hdss.com/wp-content/uploads/2026/06/5020-1.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/qkyPwvLAn5/video.mp4/playlist.m3u8'
+  },
+                {
+    name: ' ตระกูลแห่งมังกร ซีซั่น 3 ตอนที่4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://1112hdss.com/wp-content/uploads/2026/06/5020-1.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/oJOemTIaZm/video.mp4/playlist.m3u8'
+  },
+                    {
+    name: ' ตระกูลแห่งมังกร ซีซั่น 3 ตอนที่5',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://1112hdss.com/wp-content/uploads/2026/06/5020-1.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/8noy7nLm6y/video.mp4/playlist.m3u8'
+  },
+    
+    {
     name: ' ลิขิตรักสลับโฉม ตอนที่1',
     group: '🎬ซีรีย์2026',
     logo: 'https://9.9nung.com/wp-content/uploads/2026/06/gSk5AzwQ7alc2FuPd4Yv82Vly9b-185x278.jpg',
