@@ -1,6 +1,58 @@
 export const series = [
 
     {
+    name: 'เมื่อรักส่องประกาย ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Love-Has-Fireworks-TH-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/5xdaRPXB5F/video.mp4/playlist.m3u8'
+  },
+    {
+    name: 'เมื่อรักส่องประกาย ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Love-Has-Fireworks-TH-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/UKbzJb2M3A/video.mp4/playlist.m3u8'
+  },
+        {
+    name: 'เมื่อรักส่องประกาย ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Love-Has-Fireworks-TH-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/B3JQes3FQB/video.mp4/playlist.m3u8'
+  },
+            {
+    name: 'เมื่อรักส่องประกาย ตอนที่4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Love-Has-Fireworks-TH-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/y2vIo4uNlX/video.mp4/playlist.m3u8'
+  },
+    
+    {
+    name: 'ไม่สายที่จะหายโสด 2 ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Better-Late-Than-Single-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/Ev0BVRtYpf/video.mp4/playlist.m3u8'
+  },
+    
+    {
+    name: 'ไม่สายที่จะหายโสด 2 ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Better-Late-Than-Single-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/y7qwYpJOiq/video.mp4/playlist.m3u8'
+  },
+        {
+    name: 'ไม่สายที่จะหายโสด 2 ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Better-Late-Than-Single-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/ck4OJgpRUH/video.mp4/playlist.m3u8'
+  },
+            {
+    name: 'ไม่สายที่จะหายโสด 2 ตอนที่4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Better-Late-Than-Single-225x300.jpg',
+    url: 'https://series-cdn.team-indy.net:8443/vod/rRPJnE9Sur/video.mp4/playlist.m3u8'
+  },
+    
+    
+    {
     name: ' ชะตารักกระดูกปักษา ตอนที่1',
     group: '🎬ซีรีย์2026',
     logo: 'https://seriesindy.com/wp-content/uploads/2026/07/Key-to-the-Phoenix-Heart-225x300.jpg',
