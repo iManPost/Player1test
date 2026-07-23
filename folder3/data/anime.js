@@ -1,5 +1,45 @@
  export const anime = [
 
+
+     {
+    name: 'เกิดใหม่กลายเป็นดาบ  ตอนที่ 1',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2022/12/Tensei-shitara-Ken-Deshita.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/8hXxEnnw/video.mp4/playlist.m3u8'
+  },
+     {
+    name: 'เกิดใหม่กลายเป็นดาบ  ตอนที่ 2',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2022/12/Tensei-shitara-Ken-Deshita.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/BXCURJy0/video.mp4/playlist.m3u8'
+  },
+     {
+    name: 'เกิดใหม่กลายเป็นดาบ  ตอนที่ 3',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2022/12/Tensei-shitara-Ken-Deshita.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/SHeCk5Ww/video.mp4/playlist.m3u8'
+  },
+  
+     {
+    name: 'ปล่อยปลาตัวใหญ่หลุดมือ ตอนที่ 1',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/05/Nigashita-Sakana-wa.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/Rxg192fwJ/video.mp4/playlist.m3u8'
+  },
+     {
+    name: 'ปล่อยปลาตัวใหญ่หลุดมือ ตอนที่ 2',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/05/Nigashita-Sakana-wa.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/oRDVLXl91x/video.mp4/playlist.m3u8'
+  },
+   {
+    name: 'ปล่อยปลาตัวใหญ่หลุดมือ ตอนที่ 3',
+    group: 'Anime',
+    logo: 'https://indy-anime.net/wp-content/uploads/2026/05/Nigashita-Sakana-wa.jpg',
+    url: 'https://hls.animeindy.com:8443/vid/XWX7q5PUpC/video.mp4/playlist.m3u8'
+  },
+  
+  
    {
     name: 'ร้อยวันสู่บัลลังก์ ตอนที่ 1',
     group: 'Anime',
