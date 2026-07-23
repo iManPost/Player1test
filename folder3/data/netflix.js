@@ -1,7 +1,18 @@
 export const netflixMovies = [
 
 
-
+    {
+    name: ' 23000ชีวิต 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/8ZPoxkREjC92rGIOm2jwWMugl3g-185x278.jpg',
+    url: 'https://media.vdohls.com/0LVk2pss_f-o3/video.m3u8'
+  },
+    {
+    name: ' ปรารถนาต้องห้าม 2026 ',
+    group: '🎬netflix2026',
+    logo: 'https://9.9nung.com/wp-content/uploads/2026/07/5lJPvf7cJ2r2EiNrnvBVYpusKFM-185x278.jpg',
+    url: 'https://media.vdohls.com/W-N5Tu_UN8FWm/video.m3u8'
+  },
     {
     name: ' บูรพาอาถรรพ์ 2026 EP.1 ',
     group: '🎬netflix2026',
