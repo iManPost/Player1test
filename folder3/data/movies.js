@@ -1,5 +1,5 @@
 export const movies = [
-   { name: 'คลั่งนรก หลบตาย (2026) ', group: '🎬หนังใหม่2026', logo: 'https://image.springnews.co.th/uploads/images/contents/w1024/2026/01/2BRBMqVAn1uZiM69IIaq.webp?x-image-process=style/lg-webp', url: 'https://media.vdohls.com/RtIibP_6-KvK1/video.m3u8' }, 
+   { name: 'BTS กลับมาแล้ว  (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/03/d1NVILoUn4hI8zEFNKoP0K5WDgO-185x278.jpg', url: 'https://media.vdohls.com/yoz3f-VOGK_vC/video.m3u8' }, 
   { name: 'คลั่งนรก หลบตาย (2026) ', group: '🎬หนังใหม่2026', logo: 'https://image.springnews.co.th/uploads/images/contents/w1024/2026/01/2BRBMqVAn1uZiM69IIaq.webp?x-image-process=style/lg-webp', url: 'https://media.vdohls.com/RtIibP_6-KvK1/video.m3u8' }, 
   { name: 'ปรารถนาต้องห้าม (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/5lJPvf7cJ2r2EiNrnvBVYpusKFM-185x278.jpg', url: 'https://media.vdohls.com/W-N5Tu_UN8FWm/video.m3u8' }, 
   { name: '23000-ชีวิต (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/8ZPoxkREjC92rGIOm2jwWMugl3g-185x278.jpg', url: 'https://media.vdohls.com/0LVk2pss_f-o3/video.m3u8' }, 
