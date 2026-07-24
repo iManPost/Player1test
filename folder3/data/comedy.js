@@ -1,7 +1,30 @@
  export const comedy = [
   
 
-  
+      {
+    name: '  รันนิ่งแมนไทยแลนด์ ตอนที่ 1',
+    group: 'comedy',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/03/Running-Man-Thailand-2026.webp',
+    url: 'https://media.vdohls.com/ItTG-rhG_E3q0/video.m3u8'
+  },
+    {
+    name: '  รันนิ่งแมนไทยแลนด์ ตอนที่ 2',
+    group: 'comedy',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/03/Running-Man-Thailand-2026.webp',
+    url: 'https://media.vdohls.com/32OgUImI_q-0r/video.m3u8'
+  },
+    {
+    name: '  รันนิ่งแมนไทยแลนด์ ตอนที่ 3',
+    group: 'comedy',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/03/Running-Man-Thailand-2026.webp',
+    url: 'https://media.vdohls.com/fW9kMYP7_9-DZ/video.m3u8'
+  },
+     {
+    name: '  รันนิ่งแมนไทยแลนด์ ตอนที่ 4',
+    group: 'comedy',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/03/Running-Man-Thailand-2026.webp',
+    url: 'https://media.vdohls.com/ysL7A_w4O8-C6/video.m3u8'
+  },
   {
     name: 'เป็นต่อ 2026 ตอนที่ 1',
     group: 'comedy',
@@ -186,6 +209,9 @@
     logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Battle-of-Fates-2026.webp',
     url: 'https://media.vdohls.com/aHF4_ZK-sEFze/video.m3u8'
   },
+
+
+  
 
 
   
