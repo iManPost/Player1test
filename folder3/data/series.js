@@ -1,5 +1,48 @@
 export const series = [
 
+        {
+    name: ' พลิกชะตาเหนือฟ้า ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Ashes-To-Crown-2026.webp',
+    url: 'https://media.vdohls.com/m-5m_MWO5t4fS/video.m3u8'
+  },
+            {
+    name: ' พลิกชะตาเหนือฟ้า ตอนที่2',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Ashes-To-Crown-2026.webp',
+    url: 'https://media.vdohls.com/QUC_O7JAbT-oJ/video.m3u8'
+  },
+            {
+    name: ' พลิกชะตาเหนือฟ้า ตอนที่3',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Ashes-To-Crown-2026.webp',
+    url: 'https://media.vdohls.com/F6_gm-qGs7dbl/video.m3u8'
+  },
+                {
+    name: ' พลิกชะตาเหนือฟ้า ตอนที่4',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Ashes-To-Crown-2026.webp',
+    url: 'https://media.vdohls.com/CzxyqQ-pl_fJQ/video.m3u8'
+  },
+                    {
+    name: ' พลิกชะตาเหนือฟ้า ตอนที่5',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/Ashes-To-Crown-2026.webp',
+    url: 'https://media.vdohls.com/TKWDc_P-KtqBW/video.m3u8'
+  },
+    {
+    name: ' เจอกันที่ออฟฟิศ ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026.webp',
+    url: 'https://media.vdohls.com/mC-B4YaZa2_TE/video.m3u8'
+  },
+        {
+    name: ' เจอกันที่ออฟฟิศ ตอนที่1',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://ok24hd.com/wp-content/uploads/2026/06/See-You-at-Work-Tomorrow-2026.webp',
+    url: 'https://media.vdohls.com/QH0-O_ksaKdRG/video.m3u8'
+  },
+    
     {
     name: 'เมื่อรักส่องประกาย ตอนที่1',
     group: '🎬ซีรีย์2026',
@@ -346,8 +389,37 @@ export const series = [
     url: 'https://media.vdohls.com/nUpF_nTdBD-rM/playlist.m3u8'
   },
     
-
-    
+     {
+    name: 'ล่าหยก(2026) ตอนที่ 21',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/Pursuit-of-jude.jpg.webp',
+    url: 'https://media.vdohls.com/II6-U_dCvFh03/video.m3u8'
+  },
+         {
+    name: 'ล่าหยก(2026) ตอนที่ 22',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/Pursuit-of-jude.jpg.webp',
+    url: 'https://media.vdohls.com/a-wk7DIp_NaPO/video.m3u8'
+  },
+            {
+    name: 'ล่าหยก(2026) ตอนที่ 23',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/Pursuit-of-jude.jpg.webp',
+    url: 'https://media.vdohls.com/El-k_BMOqnbUE/video.m3u8'
+  },
+                {
+    name: 'ล่าหยก(2026) ตอนที่ 24',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/Pursuit-of-jude.jpg.webp',
+    url: 'https://media.vdohls.com/Awfo4v_c-SU28/video.m3u8'
+  }, 
+                   {
+    name: 'ล่าหยก(2026) ตอนที่ 25',
+    group: '🎬ซีรีย์2026',
+    logo: 'https://www.24hd.vip/wp-content/uploads/2026/03/Pursuit-of-jude.jpg.webp',
+    url: 'https://media.vdohls.com/VeGId-1Dg9_94/video.m3u8'
+  }, 
+     
     
     {
     name: 'คนมหัศจรรย์พลังรั่ว ตอนที่ 1',
