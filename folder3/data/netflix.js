@@ -1,6 +1,43 @@
 export const netflixMovies = [
 
-
+    {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่1 ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/rKK-AqO_IqHV9/video.m3u8'
+  },
+    {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่2 ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/hPd_gUrcfW-DX/video.m3u8'
+  },
+    {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่3 ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/Uvz_6WA-Ief85/video.m3u8'
+  },
+    {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่4 ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/G_r2e0-22Y11W/video.m3u8'
+  },
+        {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่5 ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/usmSN7_A-pmMm/video.m3u8'
+  },
+            {
+    name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่6 ค้างล่ะสิ55มันจบแล้วนาย ',
+    group: '🎬netflix2026',
+    logo: 'https://25-hd.com/wp-content/uploads/2026/07/ymjYmuHG4Af93fcoF0NKwx9Rovb-scaled-2-683x1024.jpg',
+    url: 'https://media.vdohls.com/CB5E40-lgF_x3/video.m3u8'
+  },
+    
+    
     {
     name: ' 23000ชีวิต 2026 ',
     group: '🎬netflix2026',
