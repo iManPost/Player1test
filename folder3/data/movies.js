@@ -1,4 +1,5 @@
 export const movies = [
+     { name: 'คนเดือดทวงแค้น  (2026) ', group: '🎬หนังใหม่2026', logo: 'https://madaboutmoviez.com/wp-content/uploads/%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-The-Debt-Collector.jpg', url: 'https://enjoy24cdn.com/hlsr2/58bcecaf0dec0200a7ea01e2e7efe05b/master.m3u8' }, 
    { name: 'BTS กลับมาแล้ว  (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/03/d1NVILoUn4hI8zEFNKoP0K5WDgO-185x278.jpg', url: 'https://media.vdohls.com/yoz3f-VOGK_vC/video.m3u8' }, 
   { name: 'คลั่งนรก หลบตาย (2026) ', group: '🎬หนังใหม่2026', logo: 'https://image.springnews.co.th/uploads/images/contents/w1024/2026/01/2BRBMqVAn1uZiM69IIaq.webp?x-image-process=style/lg-webp', url: 'https://media.vdohls.com/RtIibP_6-KvK1/video.m3u8' }, 
   { name: 'ปรารถนาต้องห้าม (2026) ', group: '🎬หนังใหม่2026', logo: 'https://9.9nung.com/wp-content/uploads/2026/07/5lJPvf7cJ2r2EiNrnvBVYpusKFM-185x278.jpg', url: 'https://media.vdohls.com/W-N5Tu_UN8FWm/video.m3u8' }, 
