@@ -1,5 +1,11 @@
 export const netflixMovies = [
 
+      {
+    name: ' คนเดือดทวงแค้น  2026  ',
+    group: '🎬netflix2026',
+    logo: 'https://madaboutmoviez.com/wp-content/uploads/%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B8%97%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99-The-Debt-Collector.jpg',
+    url: 'https://enjoy24cdn.com/hlsr2/58bcecaf0dec0200a7ea01e2e7efe05b/master.m3u8'
+  },
     {
     name: ' หน่วยจู่โจมมือพระกาฬ 2026 ตอนที่1 ',
     group: '🎬netflix2026',
